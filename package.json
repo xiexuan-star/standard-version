@@ -1,6 +1,6 @@
 {
   "name": "standard-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a test repo of standard-version",
   "main": "index.js",
   "scripts": {
