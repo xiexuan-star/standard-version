@@ -1,4 +1,6 @@
 custom changelog header
+### [1.1.4](https://github.com/xiexuan-star/standard-version/compare/v1.1.4-beta.0...v1.1.4) (2022-07-18)
+
 ### [1.1.4-beta.0](https://github.com/xiexuan-star/standard-version/compare/v1.1.3-beta.4...v1.1.4-beta.0) (2022-07-18)
 
 ### [1.1.3](https://github.com/xiexuan-star/standard-version/compare/v1.1.3-beta.4...v1.1.3) (2022-07-18)
