@@ -1,11 +1,11 @@
 {
   "name": "standard-version",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "a test repo of standard-version",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "standard-version"
+    "release-beta": "standard-version -- --prerelease beta"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/xiexuan-star/standard-version#readme",
   "dependencies": {
     "standard-version": "^9.5.0"
+  },
+  "devDependencies": {
+    "@types/standard-version": "^7.0.1"
   }
 }
