@@ -1,5 +1,37 @@
 {
-  "infile": "docs/CHANGELOG.md"
+  "infile": "docs/CHANGELOG.md",
+  "changelogHeader": "custom changelog header",
+  "packageFiles": "package.json",
+  "types": [
+    {
+      "type": "feat",
+      "section": "✨Features | 新功能"
+    },
+    {
+      "type": "fix",
+      "section": "🐞Bug Fixes | Bug修复"
+    },
+    {
+      "type": "docs",
+      "section": "✏️ Documentation | 文档"
+    },
+    {
+      "type": "style",
+      "section": "💄 Styles | 样式"
+    },
+    {
+      "type": "refactor",
+      "section": "♻️ Code Refactoring | 代码重构"
+    },
+    {
+      "type": "perf",
+      "section": "⚡️ Performance Improvements | 性能优化"
+    },
+    {
+      "type": "test",
+      "section": "✅ Tests | 测试"
+    }
+  ]
 }
 
 
